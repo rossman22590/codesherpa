@@ -1,4 +1,4 @@
-# codesherpa
+# codesherpa 
 
 **codesherpa** is a code interpreter **ChatGPT plugin** and a **standalone** code interpreter (_**experimental**_). Read the [Quickstart section](#quickstart) to try it out.
 
