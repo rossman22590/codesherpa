@@ -3,7 +3,7 @@
 **codesherpa** is a code interpreter **ChatGPT plugin** and a **standalone** code interpreter (_**experimental**_). Read the [Quickstart section](#quickstart) to try it out.
 
 ### You can use it as a
-
+ 
 - code interpreter plugin with ChatGPT
   - API for ChatGPT to run and execute code with file persistance and no timeout 
 - standalone code interpreter (_**experimental**_). 
